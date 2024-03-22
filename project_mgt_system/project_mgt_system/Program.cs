@@ -16,8 +16,8 @@ namespace project_mgt_system
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            //Application.Run(new Login());
-            Application.Run(new TeacherDashBoard());
+            Application.Run(new Login());
+
 
         }
     }

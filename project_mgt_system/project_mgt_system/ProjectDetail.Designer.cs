@@ -203,7 +203,7 @@
             this.button1.TabIndex = 5;
             this.button1.Text = "Edit";
             this.button1.UseVisualStyleBackColor = false;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
+            this.button1.Click += new System.EventHandler(this.button_edit_click);
             // 
             // button2
             // 
@@ -215,6 +215,7 @@
             this.button2.TabIndex = 5;
             this.button2.Text = "Back";
             this.button2.UseVisualStyleBackColor = false;
+            this.button2.Click += new System.EventHandler(this.button_back_click);
             // 
             // button3
             // 
@@ -226,7 +227,7 @@
             this.button3.TabIndex = 5;
             this.button3.Text = "Save";
             this.button3.UseVisualStyleBackColor = false;
-            this.button3.Click += new System.EventHandler(this.button1_Click);
+            this.button3.Click += new System.EventHandler(this.button_save_click);
             // 
             // ProjectDetail
             // 

@@ -13,3 +13,22 @@ C:\Users\user\Documents\Visual Studio 2015\Projects\project_mgt_system\project_m
 C:\Users\user\Documents\Visual Studio 2015\Projects\project_mgt_system\project_mgt_system\obj\Debug\project_mgt_system.pdb
 C:\Users\user\Documents\Visual Studio 2015\Projects\project_mgt_system\project_mgt_system\obj\Debug\project_mgt_system.TeacherDashBoard.resources
 C:\Users\user\Documents\Visual Studio 2015\Projects\project_mgt_system\project_mgt_system\obj\Debug\project_mgt_system.ProjectDetail.resources
+C:\Users\user\Documents\final-project-mgt-system\project_mgt_system\project_mgt_system\bin\Debug\project_mgt_system.exe.config
+C:\Users\user\Documents\final-project-mgt-system\project_mgt_system\project_mgt_system\obj\Debug\project_mgt_system.exe
+C:\Users\user\Documents\final-project-mgt-system\project_mgt_system\project_mgt_system\obj\Debug\project_mgt_system.pdb
+C:\Users\user\Documents\final-project-mgt-system\project_mgt_system\project_mgt_system\bin\Debug\project_mgt.mdf
+C:\Users\user\Documents\final-project-mgt-system\project_mgt_system\project_mgt_system\bin\Debug\project_mgt_log.ldf
+C:\Users\user\Documents\final-project-mgt-system\project_mgt_system\project_mgt_system\bin\Debug\project_mgt_system.exe
+C:\Users\user\Documents\final-project-mgt-system\project_mgt_system\project_mgt_system\bin\Debug\project_mgt_system.pdb
+C:\Users\user\Documents\final-project-mgt-system\project_mgt_system\project_mgt_system\bin\Debug\MySql.Data.dll
+C:\Users\user\Documents\final-project-mgt-system\project_mgt_system\project_mgt_system\bin\Debug\MySql.Data.xml
+C:\Users\user\Documents\final-project-mgt-system\project_mgt_system\project_mgt_system\obj\Debug\project_mgt_system.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\final-project-mgt-system\project_mgt_system\project_mgt_system\obj\Debug\project_mgt_system.ProjectDetail.resources
+C:\Users\user\Documents\final-project-mgt-system\project_mgt_system\project_mgt_system\obj\Debug\project_mgt_system.TeacherDashBoard.resources
+C:\Users\user\Documents\final-project-mgt-system\project_mgt_system\project_mgt_system\obj\Debug\project_mgt_system.Login.resources
+C:\Users\user\Documents\final-project-mgt-system\project_mgt_system\project_mgt_system\obj\Debug\project_mgt_system.Properties.Resources.resources
+C:\Users\user\Documents\final-project-mgt-system\project_mgt_system\project_mgt_system\obj\Debug\project_mgt_system.csproj.GenerateResource.Cache
+C:\Users\user\Documents\final-project-mgt-system\project_mgt_system\project_mgt_system\obj\Debug\project_mgt_system.PasswordReset.resources
+C:\Users\user\Documents\final-project-mgt-system\project_mgt_system\project_mgt_system\obj\Debug\project_mgt_system.AdminSite.resources
+C:\Users\user\Documents\final-project-mgt-system\project_mgt_system\project_mgt_system\obj\Debug\project_mgt_system.PasswordManage.resources
+C:\Users\user\Documents\final-project-mgt-system\project_mgt_system\project_mgt_system\obj\Debug\project_mgt_system.EmployeeDetail.resources

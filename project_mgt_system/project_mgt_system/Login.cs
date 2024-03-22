@@ -17,12 +17,14 @@ namespace project_mgt_system
             InitializeComponent();
         }
 
-        TeacherDashBoard td = new TeacherDashBoard();
+       
         String userId = "";
         String userPass = "";
-
+        
         void login(String id, String password)
         {
+            TeacherDashBoard td = new TeacherDashBoard(id);
+            AdminSite a = new AdminSite();
             MyConnection conn = new MyConnection();
             CrudOperations co = new CrudOperations();
             String query = "select * from employee where empId='" + id + "'and password='" + password + "'";
@@ -32,8 +34,16 @@ namespace project_mgt_system
             if (co.ExecuteQuery(query,conn.createConn()).Rows.Count > 0)
             {
                 //td.showListOfProjects();
+                if (id.Contains("admin"))
+                {
+                    a.Show();
+                }
 
-                td.Show();
+                if (id.Contains("tech"))
+                {
+                    td.Show();
+                }
+           
                
                 this.Hide();
 
@@ -76,6 +86,11 @@ namespace project_mgt_system
                 MessageBox.Show("empty password or user id is invalid please insert!", "wrong credentials", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
 
             }
+
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
 
         }
     }
