@@ -1,0 +1,1 @@
+﻿insert into employee values ('tech/001/01','1234');
